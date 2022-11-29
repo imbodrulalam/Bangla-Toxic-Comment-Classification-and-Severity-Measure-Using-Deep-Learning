@@ -1,1 +1,1 @@
-# Bangla-Toxic-Comment-Classification-and-Severity-Measure-Using-Deep-Learning
+# Bangla Toxic Comment Classification and Severity Measure Using Deep Learning
