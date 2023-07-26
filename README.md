@@ -1,6 +1,15 @@
 # Bangla Toxic Comment Classification and Severity Measure Using Deep Learning
 ## Reference
-Haque, Naimul & Alam, Md & Ath Towfiq, Abdullah & Hossain, Mehorab. (2022). Bangla Toxic Comment Classification and Severity Measure Using Deep Learning. Online users nowadays leave a lot of comments on various social networks, news websites, and forums. Certain comments are harmful or abusive. Since it is impractical to manually monitor so many comments, the majority of systems employ some form of a machine learning model to automatically identify harmful content. Much of the work has been done for the English language. However, only a few approaches have been taken to classify toxic comments in the Bangla language. A multi-label classification technique for Bangla comments is offered in the study that follows to classify the numerous toxic comments into six categories: toxic, severe toxic, obscene, threat, insult, and identity hate, and also measure the severity of these comments. For the experiment, we compiled a dataset of 12634 comments from TikTok and other sources. By incorporating knowledge from earlier proposed studies, the proposed classification model was developed utilizing deep learning techniques, specifically Long Short-Term Memory (LSTM) and Long Short-Term Memory-Convolutional Neural Networks (LSTM-CNNs), as well as word embeddings and obtained a maximum accuracy of 83.66% and 1.61 MSE loss for the severity measure.
+@INPROCEEDINGS{10188551,
+  author={Haque, Naimul and Alam, Md. Bodrul and Towfiq, Abdullah Ath and Hossain, Mehorab},
+  booktitle={2022 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET)}, 
+  title={Bangla Toxic Comment Classification and Severity Measure Using Deep Learning}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICRPSET57982.2022.10188551}}
+
 
 ## Dataset
 [Hugging Face: naimul011/BanglaToxicCommentsDB](https://huggingface.co/datasets/naimul011/BanglaToxicCommentsDB))
