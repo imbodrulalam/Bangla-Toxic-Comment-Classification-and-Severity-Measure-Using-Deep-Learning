@@ -1,13 +1,13 @@
 # Bangla Toxic Comment Classification and Severity Measure Using Deep Learning
 ## Reference
-@INPROCEEDINGS{10188551,
-  author={Haque, Naimul and Alam, Md. Bodrul and Towfiq, Abdullah Ath and Hossain, Mehorab},
-  booktitle={2022 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET)}, 
-  title={Bangla Toxic Comment Classification and Severity Measure Using Deep Learning}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-5},
+@INPROCEEDINGS{10188551,<br />
+  author={Haque, Naimul and Alam, Md. Bodrul and Towfiq, Abdullah Ath and Hossain, Mehorab},<br />
+  booktitle={2022 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET)}, <br />
+  title={Bangla Toxic Comment Classification and Severity Measure Using Deep Learning}, <br />
+  year={2022},<br />
+  volume={},<br />
+  number={},<br />
+  pages={1-5},<br />
   doi={10.1109/ICRPSET57982.2022.10188551}}
 
 
